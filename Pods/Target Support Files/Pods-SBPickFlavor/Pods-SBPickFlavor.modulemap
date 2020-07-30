@@ -1,0 +1,6 @@
+module Pods_SBPickFlavor {
+  umbrella header "Pods-SBPickFlavor-umbrella.h"
+
+  export *
+  module * { export * }
+}
